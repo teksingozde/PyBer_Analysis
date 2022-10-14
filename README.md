@@ -10,11 +10,11 @@ The analysis includes statistical summaries, plots of analytical results, and th
 * ride_data.csv
 
 •	Software: 
-           * Python 3.9.12
-           * Jupyter Notebook 6.4.8
-           * Pandas 1.4.2
-           * Numpy 1.21.5
-           * Matplotlib 3.5.1
+* Python 3.9.12
+* Jupyter Notebook 6.4.8
+* Pandas 1.4.2
+* Numpy 1.21.5
+* Matplotlib 3.5.1
            
 # Overview of the Analysis
 We have two data sets. One of them is city_data_csv and the other is ride_data_csv. First of all, both tables are examined separately and the total number of rides and drivers for each city type is determined. Likewise, the total fare values for each city type and the average fares per drivers and rides were also examined. Then, by examining the date-based index, a time-dependent change graph of wage ranges and multiple value ranges was created.
