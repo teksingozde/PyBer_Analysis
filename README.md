@@ -63,7 +63,7 @@ Looking at this pivot table, data for rural, suburban and urban city types are s
 To comment on Table 4, all columns have been rearranged on a weekly basis. Based on these data, all weekly data from the 1st week of 2019 until 28 March 2019 are shown in the table. The most important situation in the table is that the urban values are higher than the suburban values and the rural appears as the city type with the lowest total fare values. Across the whole table, the highest value for the rural city was $501.24 per week in the week of 2019-04-07.
 $1,412.74 per week has been calculated for Suburban city type on 2019-02-24. For the urban city type, the weekly fare value was calculated to be the highest as $2,470.93 on 2019-03-10.
 
-Graph 1. PyBer Fare Summary
+### Graph 1. PyBer Fare Summary
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/26927158/195757709-21491c61-d9bf-446a-9fd5-f1a16d731f4d.png)
 
 In the chart above, the total fees suitable for city types are expressed in $. 
