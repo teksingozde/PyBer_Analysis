@@ -7,7 +7,8 @@ The analysis includes statistical summaries, plots of analytical results, and th
 
 •	Datasets:
 * city_data.csv
-           * ride_data.csv
+* ride_data.csv
+
 •	Software: 
            * Python 3.9.12
            * Jupyter Notebook 6.4.8
